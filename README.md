@@ -1,1 +1,1 @@
-# module18-pizza-hunt
+# pizza-hunt
